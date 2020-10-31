@@ -1,0 +1,18 @@
+{
+    "todos.todo-add.todo": "Tareas",
+    "todos.todo-add.ph-new-todo": "¿Lo que hay que hacer?",
+    "todos.todo-page.mark-complete": "Marcar todo como completo",
+    "todos.todo-item.value": "Crea una plantilla TodoMVC",
+    "todos.todo-footer.text-pendiente": "tareas pendientes",
+    "todos.todo-footer.text-todos": "Todas",
+    "todos.todo-footer.text-pedientes": "Activas",
+    "todos.todo-footer.text-completados": "Terminadas",
+    "todos.todo-footer.btn-limpiar": "Limpiar completadas",
+
+    "footer.text-click": "Haga doble clic para editar una tarea",
+    "footer.text-template": "Plantilla por <a href='http://sindresorhus.com' target='_blank' rel='noopener noreferrer'>Sindre Sorhus</a>",
+    "footer.text-creado": "Creado por <a href='https://www.facebook.com/edwinjar.sernapalacio/' target='_blank' rel='noopener noreferrer'>Edwin Serna</a>",
+    "footer.text-parte": "Part of <a href='http://todomvc.com' target='_blank' rel='noopener noreferrer'>TodoMVC</a>",
+    "footer.lang.espanol": "Español",
+    "footer.lang.ingles": "Ingles"
+}

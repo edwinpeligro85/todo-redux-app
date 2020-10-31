@@ -1,0 +1,4 @@
+<header class="header">
+    <h1 [translate]="'todos.todo-add.todo'"></h1>
+    <input [formControl]="textInput" (keyup.enter)="agregar()" class="new-todo" placeholder="{{ 'todos.todo-add.ph-new-todo' | translate }}" autofocus>
+</header>
